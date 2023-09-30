@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Corrine Liu / Personal Site"
-title_separator          : "-"
+title                    : "Corrine Liu's website"
+title_separator          : ""
 name                     : &name "Corrine"
 description              : &description "This is a website to record xxx"
 url                      : https://lxycorrine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,13 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Corrine Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior Statistics & Computer Science student @UMICH "
+  location         : "Ann Arbor, US"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/lxycorrine"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
